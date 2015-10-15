@@ -1,0 +1,6 @@
+.idea/
+*.iml
+android/bin
+android/gen
+android/obj
+android/libs
